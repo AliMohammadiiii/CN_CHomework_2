@@ -1,0 +1,15 @@
+<Test>
+  <Name>lte-cell-selection</Name>
+  <Result>PASS</Result>
+  <Time real="1.520" user="1.510" system="0.000"/>
+  <Test>
+    <Name>EPC, real RRC, RngNum=1</Name>
+    <Result>PASS</Result>
+    <Time real="0.840" user="0.840" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>EPC, ideal RRC, RngNum=1</Name>
+    <Result>PASS</Result>
+    <Time real="0.680" user="0.670" system="0.000"/>
+  </Test>
+</Test>

@@ -1,0 +1,10 @@
+<Test>
+  <Name>lte-test-deactivate-bearer</Name>
+  <Result>PASS</Result>
+  <Time real="24.410" user="22.220" system="0.000"/>
+  <Test>
+    <Name>distances (m) = [ 0 0 0 ]</Name>
+    <Result>PASS</Result>
+    <Time real="24.410" user="22.220" system="0.000"/>
+  </Test>
+</Test>

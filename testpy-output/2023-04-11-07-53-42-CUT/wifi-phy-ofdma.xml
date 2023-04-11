@@ -1,0 +1,35 @@
+<Test>
+  <Name>wifi-phy-ofdma</Name>
+  <Result>PASS</Result>
+  <Time real="13.390" user="12.320" system="0.020"/>
+  <Test>
+    <Name>DL-OFDMA PHY test</Name>
+    <Result>PASS</Result>
+    <Time real="9.680" user="9.060" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>UL-OFDMA PPDU UID attribution test</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>UL-OFDMA multiple RX events test</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>UL-OFDMA PHY test</Name>
+    <Result>PASS</Result>
+    <Time real="3.480" user="3.080" system="0.010"/>
+  </Test>
+  <Test>
+    <Name>PHY padding exclusion test</Name>
+    <Result>PASS</Result>
+    <Time real="0.020" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>UL-OFDMA power control test</Name>
+    <Result>PASS</Result>
+    <Time real="0.160" user="0.110" system="0.010"/>
+  </Test>
+</Test>

@@ -1,0 +1,10 @@
+<Test>
+  <Name>wifi-power-rate-adaptation</Name>
+  <Result>PASS</Result>
+  <Time real="0.060" user="0.040" system="0.000"/>
+  <Test>
+    <Name>PowerRateAdaptation</Name>
+    <Result>PASS</Result>
+    <Time real="0.060" user="0.040" system="0.000"/>
+  </Test>
+</Test>

@@ -1,0 +1,15 @@
+<Test>
+  <Name>wifi-primary-channels</Name>
+  <Result>PASS</Result>
+  <Time real="26.240" user="24.280" system="0.090"/>
+  <Test>
+    <Name>Check correct transmissions for various primary channel settings</Name>
+    <Result>PASS</Result>
+    <Time real="13.220" user="12.000" system="0.080"/>
+  </Test>
+  <Test>
+    <Name>Check correct transmissions for various primary channel settings</Name>
+    <Result>PASS</Result>
+    <Time real="12.860" user="12.140" system="0.010"/>
+  </Test>
+</Test>

@@ -1,0 +1,20 @@
+<Test>
+  <Name>examples-as-tests-test-suite</Name>
+  <Result>PASS</Result>
+  <Time real="1.390" user="0.000" system="0.000"/>
+  <Test>
+    <Name>core-example-simulator</Name>
+    <Result>PASS</Result>
+    <Time real="0.490" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>core-example-sample-random-variable</Name>
+    <Result>PASS</Result>
+    <Time real="0.460" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>core-example-command-line</Name>
+    <Result>PASS</Result>
+    <Time real="0.440" user="0.000" system="0.000"/>
+  </Test>
+</Test>

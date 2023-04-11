@@ -1,0 +1,15 @@
+<Test>
+  <Name>wifi-txop</Name>
+  <Result>PASS</Result>
+  <Time real="0.230" user="0.200" system="0.000"/>
+  <Test>
+    <Name>Check correct operation within TXOPs</Name>
+    <Result>PASS</Result>
+    <Time real="0.130" user="0.110" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Check correct operation within TXOPs</Name>
+    <Result>PASS</Result>
+    <Time real="0.100" user="0.090" system="0.000"/>
+  </Test>
+</Test>

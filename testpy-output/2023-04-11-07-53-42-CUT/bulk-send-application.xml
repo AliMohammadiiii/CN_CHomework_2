@@ -1,0 +1,15 @@
+<Test>
+  <Name>bulk-send-application</Name>
+  <Result>PASS</Result>
+  <Time real="0.730" user="0.570" system="0.030"/>
+  <Test>
+    <Name>Check a basic 300KB transfer</Name>
+    <Result>PASS</Result>
+    <Time real="0.340" user="0.290" system="0.010"/>
+  </Test>
+  <Test>
+    <Name>Check a 300KB transfer with SeqTsSize header enabled</Name>
+    <Result>PASS</Result>
+    <Time real="0.390" user="0.280" system="0.020"/>
+  </Test>
+</Test>

@@ -1,0 +1,30 @@
+<Test>
+  <Name>devices-mesh-dot11s-regression</Name>
+  <Result>PASS</Result>
+  <Time real="1.110" user="0.890" system="0.050"/>
+  <Test>
+    <Name>PMP regression test</Name>
+    <Result>PASS</Result>
+    <Time real="0.040" user="0.030" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Simplest HWMP regression test</Name>
+    <Result>PASS</Result>
+    <Time real="0.820" user="0.660" system="0.040"/>
+  </Test>
+  <Test>
+    <Name>HWMP on-demand regression test</Name>
+    <Result>PASS</Result>
+    <Time real="0.120" user="0.100" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>HWMP proactive regression test</Name>
+    <Result>PASS</Result>
+    <Time real="0.070" user="0.060" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>HWMP target flags regression test</Name>
+    <Result>PASS</Result>
+    <Time real="0.060" user="0.040" system="0.010"/>
+  </Test>
+</Test>

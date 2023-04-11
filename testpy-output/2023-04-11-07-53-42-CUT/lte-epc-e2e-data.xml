@@ -1,0 +1,10 @@
+<Test>
+  <Name>lte-epc-e2e-data</Name>
+  <Result>PASS</Result>
+  <Time real="1.690" user="1.590" system="0.000"/>
+  <Test>
+    <Name>1 eNB, 1UE</Name>
+    <Result>PASS</Result>
+    <Time real="1.690" user="1.590" system="0.000"/>
+  </Test>
+</Test>

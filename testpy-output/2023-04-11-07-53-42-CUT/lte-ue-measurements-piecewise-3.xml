@@ -1,0 +1,10 @@
+<Test>
+  <Name>lte-ue-measurements-piecewise-3</Name>
+  <Result>PASS</Result>
+  <Time real="3.730" user="3.730" system="0.000"/>
+  <Test>
+    <Name>Piecewise test case 3 - Event A4</Name>
+    <Result>PASS</Result>
+    <Time real="3.730" user="3.730" system="0.000"/>
+  </Test>
+</Test>

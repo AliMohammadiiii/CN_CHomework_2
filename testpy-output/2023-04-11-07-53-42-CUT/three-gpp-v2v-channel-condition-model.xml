@@ -1,0 +1,20 @@
+<Test>
+  <Name>three-gpp-v2v-channel-condition-model</Name>
+  <Result>PASS</Result>
+  <Time real="53.590" user="50.720" system="0.200"/>
+  <Test>
+    <Name>Test case for the ThreeGppV2vUrban and ThreeGppV2vHighway ChannelConditionModel with building</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.000" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test case for the class ThreeGppV2vUrbanChannelConditionModel</Name>
+    <Result>PASS</Result>
+    <Time real="39.410" user="36.840" system="0.200"/>
+  </Test>
+  <Test>
+    <Name>Test case for the class ThreeGppV2vHighwayChannelConditionModel</Name>
+    <Result>PASS</Result>
+    <Time real="14.170" user="13.880" system="0.000"/>
+  </Test>
+</Test>

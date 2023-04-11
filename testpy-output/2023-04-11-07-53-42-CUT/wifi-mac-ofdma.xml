@@ -1,0 +1,95 @@
+<Test>
+  <Name>wifi-mac-ofdma</Name>
+  <Result>PASS</Result>
+  <Time real="13.420" user="12.430" system="0.000"/>
+  <Test>
+    <Name>Check correct operation of DL OFDMA acknowledgment sequences</Name>
+    <Result>PASS</Result>
+    <Time real="0.580" user="0.530" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Check correct operation of DL OFDMA acknowledgment sequences</Name>
+    <Result>PASS</Result>
+    <Time real="0.700" user="0.520" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Check correct operation of DL OFDMA acknowledgment sequences</Name>
+    <Result>PASS</Result>
+    <Time real="0.600" user="0.530" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Check correct operation of DL OFDMA acknowledgment sequences</Name>
+    <Result>PASS</Result>
+    <Time real="0.860" user="0.820" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Check correct operation of DL OFDMA acknowledgment sequences</Name>
+    <Result>PASS</Result>
+    <Time real="0.880" user="0.810" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Check correct operation of DL OFDMA acknowledgment sequences</Name>
+    <Result>PASS</Result>
+    <Time real="0.970" user="0.820" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Check correct operation of DL OFDMA acknowledgment sequences</Name>
+    <Result>PASS</Result>
+    <Time real="0.480" user="0.430" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Check correct operation of DL OFDMA acknowledgment sequences</Name>
+    <Result>PASS</Result>
+    <Time real="0.550" user="0.480" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Check correct operation of DL OFDMA acknowledgment sequences</Name>
+    <Result>PASS</Result>
+    <Time real="0.540" user="0.520" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Check correct operation of DL OFDMA acknowledgment sequences</Name>
+    <Result>PASS</Result>
+    <Time real="0.870" user="0.840" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Check correct operation of DL OFDMA acknowledgment sequences</Name>
+    <Result>PASS</Result>
+    <Time real="0.850" user="0.830" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Check correct operation of DL OFDMA acknowledgment sequences</Name>
+    <Result>PASS</Result>
+    <Time real="0.900" user="0.840" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Check correct operation of DL OFDMA acknowledgment sequences</Name>
+    <Result>PASS</Result>
+    <Time real="0.590" user="0.530" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Check correct operation of DL OFDMA acknowledgment sequences</Name>
+    <Result>PASS</Result>
+    <Time real="0.550" user="0.550" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Check correct operation of DL OFDMA acknowledgment sequences</Name>
+    <Result>PASS</Result>
+    <Time real="0.540" user="0.550" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Check correct operation of DL OFDMA acknowledgment sequences</Name>
+    <Result>PASS</Result>
+    <Time real="0.950" user="0.920" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Check correct operation of DL OFDMA acknowledgment sequences</Name>
+    <Result>PASS</Result>
+    <Time real="0.980" user="0.950" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Check correct operation of DL OFDMA acknowledgment sequences</Name>
+    <Result>PASS</Result>
+    <Time real="1.030" user="0.960" system="0.000"/>
+  </Test>
+</Test>

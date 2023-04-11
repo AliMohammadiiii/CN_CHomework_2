@@ -1,0 +1,165 @@
+<Test>
+  <Name>threaded-simulator</Name>
+  <Result>PASS</Result>
+  <Time real="21.360" user="14.470" system="8.170"/>
+  <Test>
+    <Name>Check threaded event handling with 0 threads, ns3::ListScheduler scheduler, in ns3::RealtimeSimulatorImpl</Name>
+    <Result>PASS</Result>
+    <Time real="1.000" user="0.300" system="0.010"/>
+  </Test>
+  <Test>
+    <Name>Check threaded event handling with 0 threads, ns3::HeapScheduler scheduler, in ns3::RealtimeSimulatorImpl</Name>
+    <Result>PASS</Result>
+    <Time real="1.000" user="0.290" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Check threaded event handling with 0 threads, ns3::MapScheduler scheduler, in ns3::RealtimeSimulatorImpl</Name>
+    <Result>PASS</Result>
+    <Time real="1.000" user="0.330" system="0.010"/>
+  </Test>
+  <Test>
+    <Name>Check threaded event handling with 0 threads, ns3::CalendarScheduler scheduler, in ns3::RealtimeSimulatorImpl</Name>
+    <Result>PASS</Result>
+    <Time real="1.000" user="0.300" system="0.020"/>
+  </Test>
+  <Test>
+    <Name>Check threaded event handling with 2 threads, ns3::ListScheduler scheduler, in ns3::RealtimeSimulatorImpl</Name>
+    <Result>PASS</Result>
+    <Time real="1.000" user="0.430" system="0.090"/>
+  </Test>
+  <Test>
+    <Name>Check threaded event handling with 2 threads, ns3::HeapScheduler scheduler, in ns3::RealtimeSimulatorImpl</Name>
+    <Result>PASS</Result>
+    <Time real="1.010" user="0.430" system="0.100"/>
+  </Test>
+  <Test>
+    <Name>Check threaded event handling with 2 threads, ns3::MapScheduler scheduler, in ns3::RealtimeSimulatorImpl</Name>
+    <Result>PASS</Result>
+    <Time real="1.000" user="0.430" system="0.130"/>
+  </Test>
+  <Test>
+    <Name>Check threaded event handling with 2 threads, ns3::CalendarScheduler scheduler, in ns3::RealtimeSimulatorImpl</Name>
+    <Result>PASS</Result>
+    <Time real="1.000" user="0.420" system="0.100"/>
+  </Test>
+  <Test>
+    <Name>Check threaded event handling with 10 threads, ns3::ListScheduler scheduler, in ns3::RealtimeSimulatorImpl</Name>
+    <Result>PASS</Result>
+    <Time real="1.000" user="0.650" system="0.480"/>
+  </Test>
+  <Test>
+    <Name>Check threaded event handling with 10 threads, ns3::HeapScheduler scheduler, in ns3::RealtimeSimulatorImpl</Name>
+    <Result>PASS</Result>
+    <Time real="1.000" user="0.720" system="0.450"/>
+  </Test>
+  <Test>
+    <Name>Check threaded event handling with 10 threads, ns3::MapScheduler scheduler, in ns3::RealtimeSimulatorImpl</Name>
+    <Result>PASS</Result>
+    <Time real="1.000" user="0.760" system="0.480"/>
+  </Test>
+  <Test>
+    <Name>Check threaded event handling with 10 threads, ns3::CalendarScheduler scheduler, in ns3::RealtimeSimulatorImpl</Name>
+    <Result>PASS</Result>
+    <Time real="1.000" user="0.720" system="0.350"/>
+  </Test>
+  <Test>
+    <Name>Check threaded event handling with 20 threads, ns3::ListScheduler scheduler, in ns3::RealtimeSimulatorImpl</Name>
+    <Result>PASS</Result>
+    <Time real="1.000" user="0.640" system="0.770"/>
+  </Test>
+  <Test>
+    <Name>Check threaded event handling with 20 threads, ns3::HeapScheduler scheduler, in ns3::RealtimeSimulatorImpl</Name>
+    <Result>PASS</Result>
+    <Time real="1.010" user="0.740" system="0.680"/>
+  </Test>
+  <Test>
+    <Name>Check threaded event handling with 20 threads, ns3::MapScheduler scheduler, in ns3::RealtimeSimulatorImpl</Name>
+    <Result>PASS</Result>
+    <Time real="1.010" user="0.660" system="0.750"/>
+  </Test>
+  <Test>
+    <Name>Check threaded event handling with 20 threads, ns3::CalendarScheduler scheduler, in ns3::RealtimeSimulatorImpl</Name>
+    <Result>PASS</Result>
+    <Time real="1.000" user="0.620" system="0.830"/>
+  </Test>
+  <Test>
+    <Name>Check threaded event handling with 0 threads, ns3::ListScheduler scheduler, in ns3::DefaultSimulatorImpl</Name>
+    <Result>PASS</Result>
+    <Time real="0.100" user="0.090" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Check threaded event handling with 0 threads, ns3::HeapScheduler scheduler, in ns3::DefaultSimulatorImpl</Name>
+    <Result>PASS</Result>
+    <Time real="0.100" user="0.100" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Check threaded event handling with 0 threads, ns3::MapScheduler scheduler, in ns3::DefaultSimulatorImpl</Name>
+    <Result>PASS</Result>
+    <Time real="0.120" user="0.110" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Check threaded event handling with 0 threads, ns3::CalendarScheduler scheduler, in ns3::DefaultSimulatorImpl</Name>
+    <Result>PASS</Result>
+    <Time real="0.110" user="0.110" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Check threaded event handling with 2 threads, ns3::ListScheduler scheduler, in ns3::DefaultSimulatorImpl</Name>
+    <Result>PASS</Result>
+    <Time real="0.100" user="0.100" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Check threaded event handling with 2 threads, ns3::HeapScheduler scheduler, in ns3::DefaultSimulatorImpl</Name>
+    <Result>PASS</Result>
+    <Time real="0.120" user="0.120" system="0.010"/>
+  </Test>
+  <Test>
+    <Name>Check threaded event handling with 2 threads, ns3::MapScheduler scheduler, in ns3::DefaultSimulatorImpl</Name>
+    <Result>PASS</Result>
+    <Time real="0.130" user="0.130" system="0.020"/>
+  </Test>
+  <Test>
+    <Name>Check threaded event handling with 2 threads, ns3::CalendarScheduler scheduler, in ns3::DefaultSimulatorImpl</Name>
+    <Result>PASS</Result>
+    <Time real="0.140" user="0.140" system="0.010"/>
+  </Test>
+  <Test>
+    <Name>Check threaded event handling with 10 threads, ns3::ListScheduler scheduler, in ns3::DefaultSimulatorImpl</Name>
+    <Result>PASS</Result>
+    <Time real="0.170" user="0.190" system="0.050"/>
+  </Test>
+  <Test>
+    <Name>Check threaded event handling with 10 threads, ns3::HeapScheduler scheduler, in ns3::DefaultSimulatorImpl</Name>
+    <Result>PASS</Result>
+    <Time real="0.190" user="0.230" system="0.060"/>
+  </Test>
+  <Test>
+    <Name>Check threaded event handling with 10 threads, ns3::MapScheduler scheduler, in ns3::DefaultSimulatorImpl</Name>
+    <Result>PASS</Result>
+    <Time real="0.230" user="0.220" system="0.100"/>
+  </Test>
+  <Test>
+    <Name>Check threaded event handling with 10 threads, ns3::CalendarScheduler scheduler, in ns3::DefaultSimulatorImpl</Name>
+    <Result>PASS</Result>
+    <Time real="0.320" user="0.340" system="0.100"/>
+  </Test>
+  <Test>
+    <Name>Check threaded event handling with 20 threads, ns3::ListScheduler scheduler, in ns3::DefaultSimulatorImpl</Name>
+    <Result>PASS</Result>
+    <Time real="0.300" user="0.370" system="0.240"/>
+  </Test>
+  <Test>
+    <Name>Check threaded event handling with 20 threads, ns3::HeapScheduler scheduler, in ns3::DefaultSimulatorImpl</Name>
+    <Result>PASS</Result>
+    <Time real="0.490" user="0.620" system="0.310"/>
+  </Test>
+  <Test>
+    <Name>Check threaded event handling with 20 threads, ns3::MapScheduler scheduler, in ns3::DefaultSimulatorImpl</Name>
+    <Result>PASS</Result>
+    <Time real="0.640" user="0.750" system="0.520"/>
+  </Test>
+  <Test>
+    <Name>Check threaded event handling with 20 threads, ns3::CalendarScheduler scheduler, in ns3::DefaultSimulatorImpl</Name>
+    <Result>PASS</Result>
+    <Time real="2.070" user="2.410" system="1.500"/>
+  </Test>
+</Test>

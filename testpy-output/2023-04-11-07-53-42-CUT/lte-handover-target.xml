@@ -1,0 +1,15 @@
+<Test>
+  <Name>lte-handover-target</Name>
+  <Result>PASS</Result>
+  <Time real="2.560" user="2.540" system="0.000"/>
+  <Test>
+    <Name>4 cells and A2-A4-RSRQ algorithm</Name>
+    <Result>PASS</Result>
+    <Time real="1.290" user="1.290" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>4 cells and strongest cell algorithm</Name>
+    <Result>PASS</Result>
+    <Time real="1.270" user="1.250" system="0.000"/>
+  </Test>
+</Test>
