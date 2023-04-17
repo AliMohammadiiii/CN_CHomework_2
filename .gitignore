@@ -37,8 +37,6 @@ build/
 /.cproject
 /.project
 
-bindings/
-
 version.cache
 
 .gitlab-ci-local/
