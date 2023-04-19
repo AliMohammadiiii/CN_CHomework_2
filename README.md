@@ -1,5 +1,5 @@
 
-The Network Simulator, Version 3
+The Wifi Simulator with one centeral node and one client and three mapper with ns3
 ================================
 
 ## Table of Contents:
