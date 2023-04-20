@@ -222,6 +222,11 @@ Throughput: throughput refers to how much data actually transfers during a perio
     
 ![image](https://user-images.githubusercontent.com/92108366/233435422-bce128f0-ecec-484f-8329-6b170ba6e2e2.png)
 
+
+Result image
+![image](https://user-images.githubusercontent.com/92108366/233472902-ef491d4e-8820-49bb-83ef-7165767cfe3f.png)
+
+
  
 e2e delay: End-to-end delay or one-way delay (OWD) refers to the time taken for a packet to be transmitted across a network from source to destination. 
 This is related to the capacity and fullness of the line, the type of line, the bandwidth of the line and not so much to the number of packets produced.
