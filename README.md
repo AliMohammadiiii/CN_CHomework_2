@@ -189,3 +189,14 @@ The mine function does nothing but put these different components together. Firs
 
 
    ![image](https://user-images.githubusercontent.com/92108366/233388759-f2898f32-c348-4631-b3a2-18c13e1d048f.png)
+    
+ 
+Descriptions of all parameters that have been checked:
+    Flow = What line is this and what is its source and destination address?
+    Tx packets = Transmission packets (The number of packets queued for transmission)
+    Rx packets = Recieve packets ( The number of packets received on the line )
+    The difference between these two values means the number of packets that were not received and lost
+    
+    Duration; The time taken from sending the first packet to receiving the last packet. It means how open this line has been.
+    Last Received Packet : The time of receiving the last packet
+    
