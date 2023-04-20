@@ -14,7 +14,7 @@ Note:  Much more substantial information about ns-3 can be found at
 https://www.nsnam.org
 
 ## An Overview
-
+In this experiment, ns has been used and its purpose is to investigate a Wi-Fi network topology that has 5 nodes. One node for the client, one central node and the rest are mappers. This is how the client sends a number to the central node with the UDP protocol, and the central node sends the data with the TCP protocol after receiving it for three mapper nodes. If the map has this number, it will be sent to the client using the UDP protocol.
 
 
 ## Building ns-3
