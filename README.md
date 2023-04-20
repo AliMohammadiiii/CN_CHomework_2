@@ -4,14 +4,12 @@ The Wifi Simulator with one centeral node and one client and three mapper with n
 
 ## Table of Contents:
 
-1) [An overview](#an-open-source-project)
+1) [An overview](#an-overview)
 2) [Building ns-3](#building-ns-3)
 3) [Running ns-3](#running-ns-3)
 4) [Getting access to the ns-3 documentation](#getting-access-to-the-ns-3-documentation)
 5) [Working with the development version of ns-3](#working-with-the-development-version-of-ns-3)
 
-Note:  Much more substantial information about ns-3 can be found at
-https://www.nsnam.org
 
 ## An Overview
 In this experiment, ns has been used and its purpose is to investigate a Wi-Fi network topology that has 5 nodes. One node for the client, one central node and the rest are mappers. This is how the client sends a number to the central node with the UDP protocol, and the central node sends the data with the TCP protocol after receiving it for three mapper nodes. If the map has this number, it will be sent to the client using the UDP protocol.
