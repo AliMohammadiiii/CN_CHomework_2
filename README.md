@@ -7,8 +7,8 @@ The Wifi Simulator with one centeral node and one client and three mapper with n
 1) [An overview](#an-overview)
 2) [Building ns-3](#building-ns-3)
 3) [Running ns-3](#running-ns-3)
-4) [Getting access to the ns-3 documentation](#getting-access-to-the-ns-3-documentation)
-5) [Working with the development version of ns-3](#working-with-the-development-version-of-ns-3)
+4) [Structure](#structure)
+5) [Result](#result)
 
 
 ## An Overview
