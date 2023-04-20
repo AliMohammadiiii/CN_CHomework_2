@@ -223,8 +223,8 @@ Throughput: throughput refers to how much data actually transfers during a perio
 ![image](https://user-images.githubusercontent.com/92108366/233435422-bce128f0-ecec-484f-8329-6b170ba6e2e2.png)
 
 
-Result image
-![image](https://user-images.githubusercontent.com/92108366/233472902-ef491d4e-8820-49bb-83ef-7165767cfe3f.png)
+
+
 
 
  
@@ -236,3 +236,10 @@ Sum of e2e Delay: How long did it take to send all these packets from the beginn
 ![image](https://user-images.githubusercontent.com/92108366/233432364-3d4b4c39-bbd8-4144-9e51-4230f9cdab1c.png)
 
     
+
+
+
+Result image
+
+
+![image](https://user-images.githubusercontent.com/92108366/233472902-ef491d4e-8820-49bb-83ef-7165767cfe3f.png)
