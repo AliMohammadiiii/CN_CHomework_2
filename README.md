@@ -173,5 +173,7 @@ It expresses data related to the time it takes for the packet to reach from the 
 This happens every 10 seconds.
 ### static void GenerateTraffic (Ptr<Socket> socket, uint16_t data)
 It creates a new packet and sets the data for it and also sets the header for it based on the sender. This happens every tenth of a second and a random number between 0 and 26 was created and sent to create the packet.
+### main
+The mine function does nothing but put these different components together. First, we set some main variables. Then we create client and central nodes and mappers inside the nodecontainer. Now we do the settings related to Wi-Fi as well as ap and sta for each of the nodes. Then we determine the location of each node with the help of MobilityHelper. Now that the nodes are created and also find their location, we give each of them their addresses with the help of Ipv4AddressHelper, whose base is "10.1.3.0". Then we create the client node and set AddApplication, SetStartTime and SetStopTime, then the central node and finally for the mappers. And at the end, we set the monitor items and start the simulation
 
 ## Result
