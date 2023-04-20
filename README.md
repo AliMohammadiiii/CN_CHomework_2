@@ -201,8 +201,9 @@ Descriptions of all parameters that have been checked:
     Last Received Packet : The time of receiving the last packet
     
     Throughput: throughput refers to how much data actually transfers during a period of time. which is the specified period of time from the first packet being sent to receiving the last packet, or duration. Network bandwidth defines how much data can possibly travel in a network in a period of time. bandwidth refers to capacity, while throughput details how much data actually transmits. which can be caused by various reasons, such as when the line was opened, there was no data to send continuously, or our timing was not accurate, or.... For example, if we reduce the number of mappers, the throughput of that mapper to the client will increase. This was tested.
-    ![image](https://user-images.githubusercontent.com/92108366/233432253-7c81f4c2-9220-4f3c-98bb-f2bd0ef29fb2.png)
+
+![image](https://user-images.githubusercontent.com/92108366/233432253-7c81f4c2-9220-4f3c-98bb-f2bd0ef29fb2.png)
     
-    ![image](https://user-images.githubusercontent.com/92108366/233432364-3d4b4c39-bbd8-4144-9e51-4230f9cdab1c.png)
+![image](https://user-images.githubusercontent.com/92108366/233432364-3d4b4c39-bbd8-4144-9e51-4230f9cdab1c.png)
 
     
