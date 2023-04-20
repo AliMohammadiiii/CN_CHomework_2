@@ -203,7 +203,9 @@ Descriptions of all parameters that have been checked:
     Throughput: throughput refers to how much data actually transfers during a period of time. which is the specified period of time from the first packet being sent to receiving the last packet, or duration. Network bandwidth defines how much data can possibly travel in a network in a period of time. bandwidth refers to capacity, while throughput details how much data actually transmits. which can be caused by various reasons, such as when the line was opened, there was no data to send continuously, or our timing was not accurate, or.... For example, if we reduce the number of mappers, the throughput of that mapper to the client will increase. This was tested.
 
 ![image](https://user-images.githubusercontent.com/92108366/233432253-7c81f4c2-9220-4f3c-98bb-f2bd0ef29fb2.png)
+    
     If the number of created packets increases, the throughput will also increase
+    
 ![image](https://user-images.githubusercontent.com/92108366/233435422-bce128f0-ecec-484f-8329-6b170ba6e2e2.png)
 
  
